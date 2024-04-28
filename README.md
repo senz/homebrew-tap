@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install senz/tap/<formula>`
+`brew install senz/homebrew-tap/<formula>`
 
-Or `brew tap senz/tap` and then `brew install <formula>`.
+Or `brew tap senz/homebrew-tap` and then `brew install <formula>`.
 
 ## Documentation
 
